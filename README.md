@@ -8,7 +8,7 @@ Or build docker image and then run a container, passing your discord bot token:
 docker run -d --name pusyabot-app bot_image -t {TOKEN}
 ```
 
-Bot command in Discord: `!pusya`
+Bot command in Discord: `!пуся` or `!pusya`
 
 ---
 <br/>
